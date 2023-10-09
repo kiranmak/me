@@ -13,7 +13,7 @@ name                     : &name "Kiran Makhijani"
 description              : &description "personal description"
 url                      : https://kiranmak.github.io/me
 baseurl                  : "" 
-repository               : "kiranmak/me.github.io"
+repository               : "kiranmak/me"
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled"
