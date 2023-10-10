@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-relative URL is {{site.relative_url}}
-absolute URL  is {{site.absolute_url}}
+[Paris]( {{"/cv" | relative_url }})
 
 <span style="color:green;font-weight:700;font-size:20px">
 Work in progress.
