@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[Paris]( {{/cv | relative_url }})
-[cheese pizza]({{ site.baseurl }}/cv)
 
 <span style="color:green;font-weight:700;font-size:20px">
 Work in progress.
@@ -17,10 +15,10 @@ Work in progress.
 Based on template[^1]
 </span>
 
- - [CV ](/cv)last update 2022
- - [Publications ](/publication) last update 2022
+ - [CV ]({{ site.baseurl }}/cv) last update 2022
+ - [Publications ]({{ site.baseurl }}/publication) last update 2022
 
 
 ---
-[^1]: https://github.com/academicpages/academicpages.github.io
+[^1]: [academicpages](https://github.com/academicpages/academicpages.github.io)
 
