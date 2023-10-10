@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[Paris]( {{"/cv" | relative_url }})
+[Paris]( {{/cv | relative_url }})
+[cheese pizza]({{ site.baseurl }}/cv)
 
 <span style="color:green;font-weight:700;font-size:20px">
 Work in progress.
