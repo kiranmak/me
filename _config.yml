@@ -11,8 +11,8 @@ title                    : "Hello World!"
 title_separator          : "-"
 name                     : &name "Kiran Makhijani"
 description              : &description "personal description"
-url                      : https://kiranmak.github.io/me
-baseurl                  : "" 
+url                      : https://kiranmak.github.io
+baseurl                  : "/me" 
 repository               : "kiranmak/me"
 words_per_minute         : 160
 future                   : true
