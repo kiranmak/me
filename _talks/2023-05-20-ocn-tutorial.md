@@ -1,5 +1,5 @@
 ---
-title: "Tutorial 1 on Operation and Control Networks"
+title: "Tutorial on Operation and Control Networks"
 collection: talks
 type: "Tutorial"
 permalink: /talks/2023-05-20-ocn-tutorial
