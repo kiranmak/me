@@ -11,14 +11,17 @@ redirect_from:
 <span style="color:green;font-weight:700;font-size:20px">
 Work in progress.
 </span>
-<span style="color:lightgreen;font-weight:100;font-size:10">
+<span style="color:lightgreen;font-weight:100;font-size:6">
 Based on template[^1]
 </span>
 
  - [CV ]({{ site.baseurl }}/cv) last update 2022
  - [Publications ]({{ site.baseurl }}/publication) last update 2022
+ - [CV-HTML ]({{ site.baseurl }}/livecv) last update 2022
 
 
 ---
+<span style="color:lightgreen;font-weight:100;font-size:6">
 [^1]: [academicpages](https://github.com/academicpages/academicpages.github.io)
+</span>
 
