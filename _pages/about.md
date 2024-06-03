@@ -19,9 +19,5 @@ Based on template[^1]
  - [Publications ]({{ site.baseurl }}/publication) last update 2022
  - [CV-HTML ]({{ site.baseurl }}/livecv) last update 2022
 
-
 ---
-<span style="color:lightgreen;font-weight:100;font-size:6">
-[^1]: [academicpages](https://github.com/academicpages/academicpages.github.io)
-</span>
 
