@@ -8,11 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:green;font-weight:700;font-size:20px">
-Work in progress.
-</span>
-<span style="color:lightgreen;font-weight:100;font-size:6">
-Based on template[^1]
+<span style="color:green;font-weight:700;font-size:14px">
+always a work in progress.
 </span>
 
  - [CV ]({{ site.baseurl }}/cv) last update 2022
