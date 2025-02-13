@@ -22,9 +22,14 @@ Results-driven Network Architect and Tech Lead with over two decades of experien
 - Led initiatives in SDOs (IETF, ITU, ETSI) and research community (IEEE, ACM).
 
 ## Current Position
+
+**Independent Contributor**
+Currently, I am enjoying my break from routine work by learning new technologies and honing my development skills. My last employment provided me a lot of opportunities to work with the universities and collaborate through open standards and open source. 
+My current playground is open source routing on Linux data planes. I have taken interest in building, provisioning and learning about these.
+
 **Senior Principal Research Engineer**
 *Futurewei Technologies, Santa Clara, CA, USA*
-*Nov, 2013 – present*
+*Nov, 2013 – Apr 2024*
 
 - Conduct industry research on next-gen (5G/B5G/6G) network technologies. Played a critical role in modeling fixed network services to complement 5G wireless applications. The specification is available at FG-NET-2030 as [New Services and Capabilities](https://www.itu.int/en/ITU-T/focusgroups/net2030/Documents/Gap_analysis_and_use_cases.pdf).
 
