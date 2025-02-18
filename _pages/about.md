@@ -15,8 +15,9 @@ Work in progress.
 Based on template[^1]
 </span>
 
- - [CV ]({{ site.baseurl }}/cv) last update 2022
- - [Publications ]({{ site.baseurl }}/publication) last update 2022
+ - [CV-PDF]({{ site.baseurl }}/cv) last update 2025
+ - [Publications ]({{ site.baseurl }}/publication) last update 2025
+ - [Live-CV]({{ site.baseurl }}/resume) current
 
 
 ---

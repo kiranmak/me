@@ -11,23 +11,37 @@ redirect_from:
 {% include base_path %}
 
 ## Professional Overview
-Results-driven Network Architect and Tech Lead with over two decades of experience in prominent network technology corporations. I specialize in designing and developing cutting-edge edge routing and switching components on IOS-XR and IOS platforms, demonstrating a track record of solving high-availability and scalability challenges within distributed systems. My leadership is recognized in key areas, including Dataplane programmability, network slicing, and industrial IoT.
+Results-driven **Network Architect** and **Technical Lead** with over 20 years of experience in leading network technology corporations. Expertise in designing and developing cutting-edge **edge routing** and **switching components** on IOS-XR and IOS platforms, with a proven ability to solve high-availability and scalability challenges in distributed systems. Recognized for leadership in **Dataplane programmability**, **network slicing**, and **industrial IoT**, with a strong focus on next-generation network technologies.
 
-## Industry and Standards Development Organizations Experience
-- Developed carrier-grade software for ISP markets (MPLS, VPLS, QoS, Policy-based routing).
-- In-depth knowledge of network architectures and protocols in service provider, datacenter, cellular, home, industrial, and IoT networks.
-- Focus on next-gen in-network service-aware technologies for 5G/B5G and industry automation.
-- Working knowledge of toolsets XDP, eBPF, P4, etc.
-- Proven and successful collaborations with internal and external partners.
-- Led initiatives in SDOs (IETF, ITU, ETSI) and research community (IEEE, ACM).
+
+### Core Competencies
+
+- Network Architecture & Protocol Design (Service Provider, Datacenter, Cellular, IoT)
+- Carrier-Grade Software Development (MPLS, VPLS, QoS, Policy-Based Routing)
+- In-Network Service-Aware Technologies for 5G/B5G/6G
+- Toolsets: XDP, eBPF, P4
+- Standards Development Organizations (IETF, ITU, ETSI) Leadership
+- Collaboration with Research Communities (IEEE, ACM)
+- Mentorship & Technical Training for Graduate Students
+
+### Industry & Standards Development Experience
+
+- Designed carrier-grade software for ISP markets, specializing in **MPLS**, **VPLS**, **QoS**, and **policy-based routing**.
+- Deep expertise in network architectures across service providers, datacenters, cellular networks, home networks, industrial systems, and IoT.
+- Focused on next-gen service-aware technologies for 5G/B5G networks and industrial automation.
+- Hands-on experience with advanced toolsets like **XDP**, **eBPF**, and **P4** for network programmability.
+- Successfully collaborated with internal teams and external partners to drive innovation.
+- Played a key role in initiatives within SDOs (e.g., IETF, ITU, ETSI) and contributed to research communities (IEEE, ACM).
+
 
 ## Current Position
 **Independent Contributor**
-Currently, I am enjoying my break from routine work by learning new technologies and honing my development skills. My last employment provided me a lot of opportunities to work with the universities and collaborate through open standards and open source. 
+Currently, I enjoy learning new technologies. My last project provided me a lot of opportunities to work with the universities and collaborate through open standards and open source.
 My current playground is open source routing on Linux data planes. I have taken interest in building, provisioning and learning about these.
 
 **Senior Principal Research Engineer**
-*Futurewei Technologies, Santa Clara, CA, USA*
+
+**Futurewei Technologies**, *Santa Clara, CA, USA*
 *Nov, 2013 – Apr 2024*
 
 - Conduct industry research on next-gen (5G/B5G/6G) network technologies. Played a critical role in modeling fixed network services to complement 5G wireless applications. The specification is available at FG-NET-2030 as [New Services and Capabilities](https://www.itu.int/en/ITU-T/focusgroups/net2030/Documents/Gap_analysis_and_use_cases.pdf).
@@ -46,11 +60,10 @@ My current playground is open source routing on Linux data planes. I have taken 
 - Hands-on experience with  distributed network operating systems for multi-card platofrms. Specifically worked on RAS (reliability, availability and stability) component of the infrastructure.
 
 ## Education
-- *Master of Computer Applications, Pune University, 1994–1997*
-- *Bachelor of Science, Delhi University, 1991–1994*
+Master of Computer Applications, Pune University(Graduated *1997*) and Bachelor of Science, Delhi University (Graduated 1994).
 
 ## External Positions of Responsibility
-- *IETF WG Chair for the SNAC-WG: Stub Networks using IPv6 (2021-)*
+- *IETF WG Chair for the SNAC-WG: Stub Networks using IPv6 (2021-25)*
 - *General Chair of Workshops on IEEE New Internetworking Protocols (2020-22)*
 - *Rapporteur for E2E Network Slicing Architecture, ETSI (2017)*
 
